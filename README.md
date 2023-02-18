@@ -1,1 +1,1 @@
-Where am I?
+a script that creates an alias
